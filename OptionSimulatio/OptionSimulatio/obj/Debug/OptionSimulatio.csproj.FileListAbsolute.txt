@@ -1,0 +1,10 @@
+C:\Users\user\Desktop\OptionSimulatio\OptionSimulatio\bin\Debug\OptionSimulatio.exe.config
+C:\Users\user\Desktop\OptionSimulatio\OptionSimulatio\bin\Debug\OptionSimulatio.exe
+C:\Users\user\Desktop\OptionSimulatio\OptionSimulatio\bin\Debug\OptionSimulatio.pdb
+C:\Users\user\Desktop\OptionSimulatio\OptionSimulatio\obj\Debug\OptionSimulatio.csprojAssemblyReference.cache
+C:\Users\user\Desktop\OptionSimulatio\OptionSimulatio\obj\Debug\OptionSimulatio.Properties.Resources.resources
+C:\Users\user\Desktop\OptionSimulatio\OptionSimulatio\obj\Debug\OptionSimulatio.csproj.GenerateResource.cache
+C:\Users\user\Desktop\OptionSimulatio\OptionSimulatio\obj\Debug\OptionSimulatio.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\OptionSimulatio\OptionSimulatio\obj\Debug\OptionSimulatio.exe
+C:\Users\user\Desktop\OptionSimulatio\OptionSimulatio\obj\Debug\OptionSimulatio.pdb
+C:\Users\user\Desktop\OptionSimulatio\OptionSimulatio\obj\Debug\OptionSimulatio.Form1.resources
